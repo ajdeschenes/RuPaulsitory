@@ -1,0 +1,33 @@
+,DS_Subset,Neighborhood,Class_Code,Class_Code,Class_Code
+ds_fbi_group,,,Nonviolent,Violent,White Collar
+0,Gentrified,Lake View,582,271,109
+1,Gentrified,Lincoln Park,416,173,78
+2,Gentrified,Loop,430,226,158
+3,Gentrified,Near North Side,1102,602,203
+4,Gentrified,Near South Side,220,152,28
+5,Gentrified,Near West Side,1048,613,67
+6,Gentrified,North Center,245,126,20
+7,Gentrified,Uptown,687,384,106
+8,Gentrified,West Town,1250,616,86
+9,Not Gentrified,Armour Square,121,43,4
+10,Not Gentrified,Beverly,136,70,24
+11,Not Gentrified,Bridgeport,242,170,11
+12,Not Gentrified,Calumet Heights,159,100,8
+13,Not Gentrified,Clearing,164,83,24
+14,Not Gentrified,Dunning,257,132,18
+15,Not Gentrified,Edgewater,405,225,39
+16,Not Gentrified,Edison Park,35,17,1
+17,Not Gentrified,Forest Glen,72,26,5
+18,Not Gentrified,Garfield Ridge,370,164,55
+19,Not Gentrified,Hyde Park,194,98,30
+20,Not Gentrified,Irving Park,425,235,26
+21,Not Gentrified,Jefferson Park,151,73,19
+22,Not Gentrified,Kenwood,169,179,12
+23,Not Gentrified,Lincoln Square,245,158,26
+24,Not Gentrified,Logan Square,689,474,69
+25,Not Gentrified,Morgan Park,322,197,19
+26,Not Gentrified,Mount Greenwood,96,58,9
+27,Not Gentrified,North Park,99,42,8
+28,Not Gentrified,Norwood Park,178,96,14
+29,Not Gentrified,Portage Park,501,202,32
+30,Not Gentrified,West Ridge,338,201,37
