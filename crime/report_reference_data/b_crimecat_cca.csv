@@ -1,0 +1,509 @@
+,community_area,fbi_code,date,description,latitude,longitude,primary_type,year,fbi_Crime_type,fbi_code_key,ds_fbi_group,Neighborhood,1970,1980,1990,2000,2010,1970-2010,Change,Type,Classification,Class_Code
+0,1.0,18,2002-09-18T14:30:00.000,MANU/DELIVER:CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Rogers Park,9,9,3,1,3,-6,Negative,7 - Mild Decline,Mild Decline,7
+1,1.0,18,2002-08-09T14:30:40.000,POSS: CANNABIS MORE THAN 30GMS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Rogers Park,9,9,3,1,3,-6,Negative,7 - Mild Decline,Mild Decline,7
+2,1.0,18,2002-07-30T12:06:42.000,MANU/DEL:CANNABIS OVER 10 GMS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Rogers Park,9,9,3,1,3,-6,Negative,7 - Mild Decline,Mild Decline,7
+3,1.0,18,2002-08-02T03:25:58.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Rogers Park,9,9,3,1,3,-6,Negative,7 - Mild Decline,Mild Decline,7
+4,1.0,18,2002-07-31T11:00:00.000,MANU/DELIVER:CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Rogers Park,9,9,3,1,3,-6,Negative,7 - Mild Decline,Mild Decline,7
+5,1.0,18,2002-08-17T19:05:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Rogers Park,9,9,3,1,3,-6,Negative,7 - Mild Decline,Mild Decline,7
+6,1.0,18,2002-07-10T14:22:54.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Rogers Park,9,9,3,1,3,-6,Negative,7 - Mild Decline,Mild Decline,7
+7,1.0,26,2002-11-02T16:51:12.000,TO LAND,,,CRIMINAL TRESPASS,2002,Misc Non-Index Offense ,26,Nonviolent,Rogers Park,9,9,3,1,3,-6,Negative,7 - Mild Decline,Mild Decline,7
+8,1.0,26,2002-08-28T08:25:00.000,FALSE/STOLEN/ALTERED TRP,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Rogers Park,9,9,3,1,3,-6,Negative,7 - Mild Decline,Mild Decline,7
+9,1.0,17,2002-11-04T15:00:00.000,AGG CRIMINAL SEXUAL ABUSE,,,SEX OFFENSE,2002,Criminal Sexual Abuse ,17,Nonviolent,Rogers Park,9,9,3,1,3,-6,Negative,7 - Mild Decline,Mild Decline,7
+10,1.0,08B,2002-06-07T20:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Rogers Park,9,9,3,1,3,-6,Negative,7 - Mild Decline,Mild Decline,7
+11,1.0,08B,2002-09-01T01:00:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Rogers Park,9,9,3,1,3,-6,Negative,7 - Mild Decline,Mild Decline,7
+12,1.0,08B,2002-08-19T03:08:24.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Rogers Park,9,9,3,1,3,-6,Negative,7 - Mild Decline,Mild Decline,7
+13,1.0,11,2002-07-05T02:25:00.000,THEFT OF LOST/MISLAID PROP,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Rogers Park,9,9,3,1,3,-6,Negative,7 - Mild Decline,Mild Decline,7
+14,1.0,14,2002-05-28T15:00:00.000,TO VEHICLE,42.007961462,-87.662719889,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Rogers Park,9,9,3,1,3,-6,Negative,7 - Mild Decline,Mild Decline,7
+15,3.0,18,2002-09-20T20:40:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Uptown,-1,-1,-1,3,9,10,Positive,6 - Gentrification,Gentrification,6
+16,3.0,18,2002-09-03T20:15:00.000,POSS: COCAINE,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Uptown,-1,-1,-1,3,9,10,Positive,6 - Gentrification,Gentrification,6
+17,3.0,18,2002-09-20T20:30:00.000,POSS: HALLUCINOGENS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Uptown,-1,-1,-1,3,9,10,Positive,6 - Gentrification,Gentrification,6
+18,3.0,18,2002-08-31T11:30:00.000,MANU/DELIVER:CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Uptown,-1,-1,-1,3,9,10,Positive,6 - Gentrification,Gentrification,6
+19,3.0,26,2002-10-06T10:00:00.000,OTHER VEHICLE OFFENSE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Uptown,-1,-1,-1,3,9,10,Positive,6 - Gentrification,Gentrification,6
+20,3.0,26,2002-11-07T16:04:50.000,OTHER VEHICLE OFFENSE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Uptown,-1,-1,-1,3,9,10,Positive,6 - Gentrification,Gentrification,6
+21,3.0,26,2002-05-26T20:40:00.000,TO VEHICLE,,,CRIMINAL TRESPASS,2002,Misc Non-Index Offense ,26,Nonviolent,Uptown,-1,-1,-1,3,9,10,Positive,6 - Gentrification,Gentrification,6
+22,3.0,26,2002-09-28T11:25:00.000,TO VEHICLE,,,CRIMINAL TRESPASS,2002,Misc Non-Index Offense ,26,Nonviolent,Uptown,-1,-1,-1,3,9,10,Positive,6 - Gentrification,Gentrification,6
+23,3.0,08B,2002-07-23T03:50:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Uptown,-1,-1,-1,3,9,10,Positive,6 - Gentrification,Gentrification,6
+24,3.0,08B,2002-11-04T19:25:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Uptown,-1,-1,-1,3,9,10,Positive,6 - Gentrification,Gentrification,6
+25,3.0,11,2002-10-02T00:01:00.000,FRAUD OR CONFIDENCE GAME,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Uptown,-1,-1,-1,3,9,10,Positive,6 - Gentrification,Gentrification,6
+26,3.0,14,2002-05-20T18:30:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Uptown,-1,-1,-1,3,9,10,Positive,6 - Gentrification,Gentrification,6
+27,4.0,18,2002-05-06T11:35:50.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Lincoln Square,9,7,5,11,11,2,No Change,1 - Upper Class,Upper Class,1
+28,4.0,11,2002-10-09T16:30:00.000,FRAUD OR CONFIDENCE GAME,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Lincoln Square,9,7,5,11,11,2,No Change,1 - Upper Class,Upper Class,1
+29,4.0,16,2002-07-01T17:03:17.000,SOLICIT FOR BUSINESS,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,Lincoln Square,9,7,5,11,11,2,No Change,1 - Upper Class,Upper Class,1
+30,7.0,18,2002-09-25T20:25:00.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Lincoln Park,1,11,11,11,11,10,Positive,6 - Gentrification,Gentrification,6
+31,7.0,08B,2002-06-17T13:27:13.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Lincoln Park,1,11,11,11,11,10,Positive,6 - Gentrification,Gentrification,6
+32,7.0,08B,2002-10-17T08:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Lincoln Park,1,11,11,11,11,10,Positive,6 - Gentrification,Gentrification,6
+33,7.0,14,2002-12-04T18:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Lincoln Park,1,11,11,11,11,10,Positive,6 - Gentrification,Gentrification,6
+34,7.0,16,2002-05-16T07:22:11.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,Lincoln Park,1,11,11,11,11,10,Positive,6 - Gentrification,Gentrification,6
+35,7.0,16,2002-04-28T03:16:37.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,Lincoln Park,1,11,11,11,11,10,Positive,6 - Gentrification,Gentrification,6
+36,7.0,08A,2002-11-12T13:15:00.000,SIMPLE,,,ASSAULT,2002,Simple Assault ,08A,Violent,Lincoln Park,1,11,11,11,11,10,Positive,6 - Gentrification,Gentrification,6
+37,8.0,18,2002-05-28T03:31:51.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+38,8.0,26,2002-05-10T19:30:00.000,TELEPHONE THREAT,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+39,8.0,08B,2002-08-18T00:50:00.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+40,8.0,08B,2002-10-23T02:11:52.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+41,8.0,08B,2002-05-29T22:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+42,8.0,11,2002-08-18T22:00:00.000,CREDIT CARD FRAUD,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+43,8.0,11,2002-05-07T00:01:00.000,CREDIT CARD FRAUD,41.902187338,-87.629933817,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+44,8.0,11,2002-04-14T16:55:00.000,ILLEGAL POSSESSION CASH CARD,41.891990384,-87.611461502,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+45,8.0,14,2002-07-26T20:50:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+46,8.0,14,2002-11-27T19:30:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+47,8.0,14,2002-07-05T00:20:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+48,8.0,14,2002-11-27T15:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+49,8.0,14,2002-12-18T18:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+50,8.0,14,2002-05-26T20:53:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+51,8.0,14,2002-08-08T18:02:00.000,TO PROPERTY,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+52,8.0,14,2002-08-05T15:30:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+53,8.0,16,2002-10-27T00:05:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+54,8.0,10,2002-11-09T19:21:44.000,COUNTERFEIT CHECK,,,DECEPTIVE PRACTICE,2002,Forgery & Counterfeiting ,10,Nonviolent,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification,Gentrification,6
+55,11.0,18,2002-05-15T19:05:00.000,ATTEMPT POSSESSION NARCOTICS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Jefferson Park,8,7,7,7,7,-1,No Change,2 - Middle Class,Middle Class,2
+56,13.0,18,2002-08-09T23:22:00.000,POSS: COCAINE,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,North Park,9,11,11,11,11,2,No Change,1 - Upper Class,Upper Class,1
+57,13.0,18,2002-06-10T09:59:49.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,North Park,9,11,11,11,11,2,No Change,1 - Upper Class,Upper Class,1
+58,17.0,18,2002-05-17T12:43:08.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Dunning,7,7,7,7,7,0,No Change,2 - Middle Class,Middle Class,2
+59,17.0,17,2002-07-18T08:55:00.000,OBSCENE TELEPHONE CALLS,,,OTHER OFFENSE,2002,Criminal Sexual Abuse ,17,Nonviolent,Dunning,7,7,7,7,7,0,No Change,2 - Middle Class,Middle Class,2
+60,17.0,08B,2002-07-30T02:00:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Dunning,7,7,7,7,7,0,No Change,2 - Middle Class,Middle Class,2
+61,17.0,14,2002-05-03T15:30:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Dunning,7,7,7,7,7,0,No Change,2 - Middle Class,Middle Class,2
+62,19.0,18,2002-07-15T15:40:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Belmont Cragin,7,7,5,1,-5,-12,Negative,9 - Serious Decline,Serious Decline,9
+63,19.0,26,2002-04-23T20:30:00.000,HARASSMENT BY TELEPHONE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Belmont Cragin,7,7,5,1,-5,-12,Negative,9 - Serious Decline,Serious Decline,9
+64,19.0,17,2002-02-18T10:00:00.000,AGG CRIM SEX ABUSE FAM MEMBER,,,OFFENSE INVOLVING CHILDREN,2002,Criminal Sexual Abuse ,17,Nonviolent,Belmont Cragin,7,7,5,1,-5,-12,Negative,9 - Serious Decline,Serious Decline,9
+65,19.0,14,2002-05-24T16:30:00.000,TO VEHICLE,41.924051234,-87.760399665,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Belmont Cragin,7,7,5,1,-5,-12,Negative,9 - Serious Decline,Serious Decline,9
+66,19.0,14,2002-10-31T21:40:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Belmont Cragin,7,7,5,1,-5,-12,Negative,9 - Serious Decline,Serious Decline,9
+67,19.0,16,2002-06-24T14:00:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,Belmont Cragin,7,7,5,1,-5,-12,Negative,9 - Serious Decline,Serious Decline,9
+68,19.0,16,2002-04-24T18:43:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,Belmont Cragin,7,7,5,1,-5,-12,Negative,9 - Serious Decline,Serious Decline,9
+69,19.0,08A,2002-11-28T08:30:00.000,SIMPLE,,,ASSAULT,2002,Simple Assault ,08A,Violent,Belmont Cragin,7,7,5,1,-5,-12,Negative,9 - Serious Decline,Serious Decline,9
+70,19.0,20,2002-01-08T00:01:00.000,AGG CRIM SEX ABUSE FAM MEMBER,41.927240906,-87.744837749,OFFENSE INVOLVING CHILDREN,2002,Offenses Against Family ,20,Nonviolent,Belmont Cragin,7,7,5,1,-5,-12,Negative,9 - Serious Decline,Serious Decline,9
+71,19.0,20,2002-12-01T00:01:00.000,CRIM SEX ABUSE BY FAM MEMBER,,,OFFENSE INVOLVING CHILDREN,2002,Offenses Against Family ,20,Nonviolent,Belmont Cragin,7,7,5,1,-5,-12,Negative,9 - Serious Decline,Serious Decline,9
+72,23.0,18,2002-10-27T10:50:00.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+73,23.0,18,2002-06-12T20:35:00.000,MANU/DEL:CANNABIS 10GM OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+74,23.0,18,2002-07-22T07:17:14.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+75,23.0,18,2002-10-29T18:20:00.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+76,23.0,18,2002-07-01T21:06:16.000,MANU/DEL:CANNABIS OVER 10 GMS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+77,23.0,18,2002-11-07T18:51:41.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+78,23.0,18,2002-10-14T15:15:00.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+79,23.0,18,2002-09-12T18:55:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+80,23.0,18,2002-08-02T13:13:31.000,POSS: COCAINE,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+81,23.0,18,2002-05-05T10:35:00.000,MANU/DELIVER: HEROIN (WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+82,23.0,18,2002-08-27T11:50:00.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+83,23.0,18,2002-05-27T09:58:00.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+84,23.0,26,2002-11-07T22:40:00.000,FALSE/STOLEN/ALTERED TRP,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+85,23.0,26,2002-08-12T18:45:00.000,SOLICIT NARCOTICS ON PUBLICWAY,,,NARCOTICS,2002,Misc Non-Index Offense ,26,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+86,23.0,26,2002-06-24T07:50:00.000,SOLICIT NARCOTICS ON PUBLICWAY,,,NARCOTICS,2002,Misc Non-Index Offense ,26,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+87,23.0,26,2002-10-18T23:00:00.000,HARASSMENT BY TELEPHONE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+88,23.0,08B,2002-10-18T19:04:53.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+89,23.0,08B,2002-07-07T23:37:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+90,23.0,08B,2002-06-22T17:00:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+91,23.0,08B,2002-05-27T13:05:00.000,SIMPLE,41.904106264,-87.706827786,BATTERY,2002,Simple Battery ,08B,Violent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+92,23.0,08B,2002-05-26T14:10:00.000,SIMPLE,41.893563609,-87.722753531,BATTERY,2002,Simple Battery ,08B,Violent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+93,23.0,11,2002-05-24T00:01:00.000,FRAUD OR CONFIDENCE GAME,41.912149595,-87.736181,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+94,23.0,11,2002-11-01T23:59:00.000,FRAUD OR CONFIDENCE GAME,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+95,23.0,14,2002-06-27T00:10:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+96,23.0,14,2002-06-21T02:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+97,23.0,20,2002-01-01T22:00:00.000,AGG CRIM SEX ABUSE FAM MEMBER,,,OFFENSE INVOLVING CHILDREN,2002,Offenses Against Family ,20,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+98,23.0,19,2002-07-11T19:10:57.000,GAME/DICE,,,GAMBLING,2002,Gambling ,19,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+99,23.0,22,2002-07-01T01:00:00.000,ILLEGAL CONSUMPTION BY MINOR,,,LIQUOR LAW VIOLATION,2002,Liquor License ,22,Nonviolent,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+100,24.0,18,2002-06-01T19:15:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+101,24.0,18,2002-10-25T22:10:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+102,24.0,18,2002-06-20T21:10:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+103,24.0,18,2002-05-20T20:05:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+104,24.0,18,2002-05-18T10:15:00.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+105,24.0,26,2002-10-26T17:57:32.000,BOMB THREAT,,,PUBLIC PEACE VIOLATION,2002,Misc Non-Index Offense ,26,Nonviolent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+106,24.0,08B,2002-10-19T15:30:00.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+107,24.0,08B,2002-05-26T03:48:26.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+108,24.0,08B,2002-09-30T18:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+109,24.0,08B,2002-09-14T03:15:17.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+110,24.0,14,2002-06-26T12:45:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+111,24.0,14,2002-09-05T23:09:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+112,24.0,14,2002-07-04T16:00:00.000,TO PROPERTY,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+113,24.0,14,2002-08-19T18:30:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+114,24.0,14,2002-10-09T21:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+115,24.0,16,2002-07-12T01:52:49.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+116,24.0,16,2002-05-27T02:40:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+117,24.0,16,2002-05-11T23:30:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+118,24.0,08A,2002-07-23T21:30:00.000,SIMPLE,,,ASSAULT,2002,Simple Assault ,08A,Violent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+119,24.0,08A,2002-06-30T17:40:00.000,PRO EMP HANDS NO/MIN INJURY,,,ASSAULT,2002,Simple Assault ,08A,Violent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+120,24.0,22,2002-08-26T20:20:00.000,LIQUOR LICENSE VIOLATION,,,LIQUOR LAW VIOLATION,2002,Liquor License ,22,Nonviolent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+121,24.0,24,2002-06-18T23:30:00.000,RECKLESS CONDUCT,,,PUBLIC PEACE VIOLATION,2002,Disorderly Conduct ,24,Nonviolent,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification,Gentrification,6
+122,25.0,18,2002-09-02T14:00:00.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+123,25.0,18,2002-08-23T00:25:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+124,25.0,18,2002-05-30T17:59:30.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+125,25.0,18,2002-10-08T20:00:00.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+126,25.0,18,2002-10-31T21:10:00.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+127,25.0,18,2002-05-09T22:44:05.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+128,25.0,18,2002-05-20T19:44:40.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+129,25.0,18,2002-06-27T01:20:33.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+130,25.0,18,2002-07-12T19:53:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+131,25.0,18,2002-06-30T18:44:11.000,MANU/DELIVER:CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+132,25.0,18,2002-06-30T10:06:00.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+133,25.0,18,2002-11-04T23:30:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+134,25.0,18,2002-07-20T10:30:00.000,MANU/DELIVER:CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+135,25.0,18,2002-07-31T20:58:30.000,POS: HYPODERMIC NEEDLE,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+136,25.0,18,2002-05-04T00:15:16.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+137,25.0,18,2002-04-24T02:02:30.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+138,25.0,18,2002-05-05T22:25:00.000,MANU/DELIVER: HEROIN (WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+139,25.0,18,2002-10-09T19:05:00.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+140,25.0,26,2002-05-24T16:15:00.000,TO LAND,41.876745237,-87.748271813,CRIMINAL TRESPASS,2002,Misc Non-Index Offense ,26,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+141,25.0,26,2002-01-05T22:46:00.000,OTHER CRIME INVOLVING PROPERTY,41.905853962,-87.757605168,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+142,25.0,26,2002-09-04T13:30:00.000,FOUND SUSPECT NARCOTICS,,,NARCOTICS,2002,Misc Non-Index Offense ,26,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+143,25.0,26,2002-11-04T12:00:00.000,OTHER VEHICLE OFFENSE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+144,25.0,26,2002-06-11T20:00:00.000,OTHER VEHICLE OFFENSE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+145,25.0,26,2002-11-20T09:46:52.000,SOLICIT NARCOTICS ON PUBLICWAY,,,NARCOTICS,2002,Misc Non-Index Offense ,26,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+146,25.0,26,2002-06-04T18:19:00.000,SOLICIT NARCOTICS ON PUBLICWAY,,,NARCOTICS,2002,Misc Non-Index Offense ,26,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+147,25.0,26,2002-07-27T22:20:00.000,UNLAWFUL RESTRAINT,,,KIDNAPPING,2002,Misc Non-Index Offense ,26,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+148,25.0,17,2002-09-26T09:00:00.000,BIGAMY,41.910387076,-87.763031099,SEX OFFENSE,2002,Criminal Sexual Abuse ,17,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+149,25.0,17,2002-11-16T06:30:00.000,CRIMINAL SEXUAL ABUSE,,,SEX OFFENSE,2002,Criminal Sexual Abuse ,17,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+150,25.0,17,2002-08-15T08:00:00.000,AGG CRIMINAL SEXUAL ABUSE,,,SEX OFFENSE,2002,Criminal Sexual Abuse ,17,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+151,25.0,08B,2002-05-28T21:32:00.000,SIMPLE,41.896804386,-87.74963512,BATTERY,2002,Simple Battery ,08B,Violent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+152,25.0,08B,2002-09-02T21:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+153,25.0,08B,2002-09-18T15:50:38.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+154,25.0,08B,2002-10-05T18:42:38.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+155,25.0,08B,2002-05-25T01:50:00.000,SIMPLE,41.913238506,-87.775354021,BATTERY,2002,Simple Battery ,08B,Violent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+156,25.0,08B,2002-08-02T12:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+157,25.0,08B,2002-05-29T02:10:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+158,25.0,08B,2002-07-10T13:50:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+159,25.0,08B,2002-12-13T21:05:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+160,25.0,08B,2002-07-14T00:35:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+161,25.0,08B,2002-11-27T00:12:00.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+162,25.0,08B,2002-10-22T18:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+163,25.0,08B,2002-07-26T19:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+164,25.0,08B,2002-05-23T23:45:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+165,25.0,11,2002-05-16T08:40:00.000,THEFT OF LABOR/SERVICES,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+166,25.0,11,2002-11-16T10:22:57.000,THEFT OF LOST/MISLAID PROP,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+167,25.0,14,2002-05-28T01:09:18.000,TO PROPERTY,41.894117629,-87.742097084,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+168,25.0,14,2002-11-10T00:10:00.000,TO VEHICLE,41.868490904,-87.774241702,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+169,25.0,14,2002-05-14T03:10:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+170,25.0,14,2002-08-10T03:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+171,25.0,14,2002-04-25T23:45:00.000,TO PROPERTY,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+172,25.0,14,2002-07-25T15:50:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+173,25.0,16,2002-09-23T21:28:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+174,25.0,16,2002-06-01T06:45:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+175,25.0,16,2002-08-08T20:10:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+176,25.0,16,2002-08-09T07:32:06.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+177,25.0,16,2002-04-28T20:00:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+178,25.0,16,2002-07-26T21:54:23.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+179,25.0,08A,2002-06-16T16:43:54.000,SIMPLE,41.902802342,-87.775389792,ASSAULT,2002,Simple Assault ,08A,Violent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+180,25.0,20,2002-11-10T00:55:00.000,CONTRIBUTE DELINQUENCY OF A CHILD,,,OFFENSE INVOLVING CHILDREN,2002,Offenses Against Family ,20,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+181,25.0,19,2002-08-25T10:55:00.000,GAME/DICE,,,GAMBLING,2002,Gambling ,19,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+182,25.0,24,2002-11-22T03:55:00.000,FALSE POLICE REPORT,,,PUBLIC PEACE VIOLATION,2002,Disorderly Conduct ,24,Nonviolent,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+183,26.0,18,2002-11-19T11:12:39.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,West Garfield Park,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+184,26.0,18,2002-07-10T12:49:00.000,MANU/DELIVER: HEROIN (WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,West Garfield Park,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+185,26.0,18,2002-06-12T13:26:44.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,West Garfield Park,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+186,26.0,18,2002-05-09T01:26:27.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,West Garfield Park,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+187,26.0,26,2002-05-21T23:04:00.000,HARASSMENT BY TELEPHONE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,West Garfield Park,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+188,26.0,26,2002-09-27T18:47:45.000,TO LAND,,,CRIMINAL TRESPASS,2002,Misc Non-Index Offense ,26,Nonviolent,West Garfield Park,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+189,26.0,08B,2002-10-24T15:20:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,West Garfield Park,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+190,26.0,08B,2002-05-01T00:01:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,West Garfield Park,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+191,26.0,08B,2002-05-12T04:33:19.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,West Garfield Park,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+192,26.0,11,2002-10-05T14:00:00.000,THEFT OF LOST/MISLAID PROP,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,West Garfield Park,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+193,26.0,11,2002-06-28T12:50:00.000,FRAUD OR CONFIDENCE GAME,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,West Garfield Park,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+194,26.0,14,2002-09-12T01:55:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,West Garfield Park,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+195,26.0,14,2002-07-20T23:30:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,West Garfield Park,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+196,26.0,16,2002-10-29T12:25:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,West Garfield Park,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+197,26.0,16,2002-11-18T17:35:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,West Garfield Park,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+198,27.0,18,2002-06-08T17:11:37.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,East Garfield Park,-9,-9,-9,-10,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+199,27.0,18,2002-06-08T17:29:24.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,East Garfield Park,-9,-9,-9,-10,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+200,27.0,18,2002-11-16T16:00:00.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,East Garfield Park,-9,-9,-9,-10,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+201,27.0,18,2002-11-10T16:36:04.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,East Garfield Park,-9,-9,-9,-10,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+202,27.0,18,2002-05-06T23:33:46.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,East Garfield Park,-9,-9,-9,-10,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+203,27.0,18,2002-07-16T20:14:52.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,East Garfield Park,-9,-9,-9,-10,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+204,27.0,18,2002-08-04T17:40:45.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,East Garfield Park,-9,-9,-9,-10,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+205,27.0,18,2002-08-04T12:06:46.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,East Garfield Park,-9,-9,-9,-10,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+206,27.0,26,2002-07-02T08:30:00.000,ANIMAL ABUSE/NEGLECT,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,East Garfield Park,-9,-9,-9,-10,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+207,27.0,26,2002-05-19T12:05:00.000,OTHER VEHICLE OFFENSE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,East Garfield Park,-9,-9,-9,-10,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+208,27.0,08B,2002-05-29T13:24:20.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,East Garfield Park,-9,-9,-9,-10,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+209,27.0,08B,2002-05-22T20:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,East Garfield Park,-9,-9,-9,-10,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+210,27.0,08B,2002-10-04T11:10:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,East Garfield Park,-9,-9,-9,-10,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+211,27.0,14,2002-05-28T23:00:00.000,TO VEHICLE,41.885372506,-87.708050135,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,East Garfield Park,-9,-9,-9,-10,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+212,27.0,16,2002-10-09T12:30:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,East Garfield Park,-9,-9,-9,-10,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+213,28.0,18,2002-10-30T21:30:00.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+214,28.0,18,2002-11-09T01:37:27.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+215,28.0,18,2002-08-08T20:00:00.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+216,28.0,18,2002-06-09T01:11:53.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+217,28.0,18,2002-05-01T21:24:41.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+218,28.0,18,2002-08-22T17:40:00.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+219,28.0,18,2002-09-15T10:05:00.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+220,28.0,18,2002-08-29T23:15:00.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+221,28.0,18,2002-05-06T22:10:58.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+222,28.0,18,2002-07-12T23:48:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+223,28.0,18,2002-05-02T21:35:00.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+224,28.0,26,2002-11-27T17:13:30.000,BOMB THREAT,,,PUBLIC PEACE VIOLATION,2002,Misc Non-Index Offense ,26,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+225,28.0,26,2002-11-30T11:30:00.000,OTHER CRIME INVOLVING PROPERTY,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+226,28.0,26,2002-07-24T11:22:28.000,OTHER CRIME INVOLVING PROPERTY,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+227,28.0,08B,2002-10-06T04:50:55.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+228,28.0,08B,2002-04-29T19:18:09.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+229,28.0,08B,2002-09-10T07:02:33.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+230,28.0,08B,2002-04-29T17:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+231,28.0,08B,2002-08-23T11:15:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+232,28.0,08B,2002-09-15T15:25:20.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+233,28.0,11,2002-08-17T21:27:58.000,THEFT OF LOST/MISLAID PROP,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+234,28.0,14,2002-06-19T21:37:06.000,TO PROPERTY,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+235,28.0,14,2002-07-10T00:01:00.000,TO STATE SUP PROP,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+236,28.0,14,2002-04-27T04:05:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+237,28.0,14,2002-08-11T23:30:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+238,28.0,14,2002-05-11T23:45:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+239,28.0,10,2002-11-15T14:31:28.000,COUNTERFEIT CHECK,,,DECEPTIVE PRACTICE,2002,Forgery & Counterfeiting ,10,Nonviolent,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification,Gentrification,6
+240,29.0,18,2002-05-20T22:00:00.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+241,29.0,18,2002-05-04T21:25:00.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+242,29.0,18,2002-07-05T10:56:19.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+243,29.0,18,2002-11-10T11:10:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+244,29.0,18,2002-08-12T15:20:00.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+245,29.0,26,2002-06-07T19:00:00.000,SOLICIT NARCOTICS ON PUBLICWAY,,,NARCOTICS,2002,Misc Non-Index Offense ,26,Nonviolent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+246,29.0,08B,2002-05-23T09:59:29.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+247,29.0,08B,2002-08-29T16:14:50.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+248,29.0,08B,2002-06-01T18:15:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+249,29.0,08B,2002-05-10T23:05:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+250,29.0,08B,2002-11-09T00:01:00.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+251,29.0,08B,2002-07-09T19:41:47.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+252,29.0,08B,2002-08-28T03:31:24.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+253,29.0,14,2002-08-22T16:00:37.000,TO PROPERTY,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+254,29.0,14,2002-11-10T23:50:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+255,29.0,16,2002-07-12T06:30:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+256,29.0,08A,2002-05-01T14:49:42.000,SIMPLE,,,ASSAULT,2002,Simple Assault ,08A,Violent,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+257,30.0,18,2002-11-25T22:38:26.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,South Lawndale,-3,-7,-7,-7,-7,-4,No Change,3 - Poverty,Poverty,3
+258,30.0,18,2002-05-30T20:00:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,South Lawndale,-3,-7,-7,-7,-7,-4,No Change,3 - Poverty,Poverty,3
+259,30.0,08B,2002-06-30T13:24:51.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,South Lawndale,-3,-7,-7,-7,-7,-4,No Change,3 - Poverty,Poverty,3
+260,30.0,08B,2002-06-08T17:32:40.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,South Lawndale,-3,-7,-7,-7,-7,-4,No Change,3 - Poverty,Poverty,3
+261,30.0,14,2002-01-06T18:49:58.000,TO PROPERTY,41.850974901,-87.70032866,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,South Lawndale,-3,-7,-7,-7,-7,-4,No Change,3 - Poverty,Poverty,3
+262,30.0,08A,2002-06-07T23:35:00.000,SIMPLE,,,ASSAULT,2002,Simple Assault ,08A,Violent,South Lawndale,-3,-7,-7,-7,-7,-4,No Change,3 - Poverty,Poverty,3
+263,31.0,18,2002-06-03T17:40:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Lower West Side,-5,-7,-7,-7,-5,0,No Change,3 - Poverty,Poverty,3
+264,31.0,26,2002-04-29T15:17:18.000,VIOLATE ORDER OF PROTECTION,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Lower West Side,-5,-7,-7,-7,-5,0,No Change,3 - Poverty,Poverty,3
+265,31.0,26,2002-08-30T18:36:39.000,VIOLATE ORDER OF PROTECTION,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Lower West Side,-5,-7,-7,-7,-5,0,No Change,3 - Poverty,Poverty,3
+266,31.0,14,2002-08-21T22:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Lower West Side,-5,-7,-7,-7,-5,0,No Change,3 - Poverty,Poverty,3
+267,32.0,18,2002-08-23T16:55:45.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Loop,6,11,11,13,11,5,Positive,6 - Gentrification,Gentrification,6
+268,32.0,18,2002-03-19T19:30:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Loop,6,11,11,13,11,5,Positive,6 - Gentrification,Gentrification,6
+269,32.0,08B,2002-06-29T13:00:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Loop,6,11,11,13,11,5,Positive,6 - Gentrification,Gentrification,6
+270,32.0,08B,2002-08-14T17:55:04.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Loop,6,11,11,13,11,5,Positive,6 - Gentrification,Gentrification,6
+271,32.0,08B,2002-08-15T08:48:51.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Loop,6,11,11,13,11,5,Positive,6 - Gentrification,Gentrification,6
+272,32.0,08B,2002-04-23T23:08:24.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Loop,6,11,11,13,11,5,Positive,6 - Gentrification,Gentrification,6
+273,32.0,11,2002-05-03T14:20:00.000,ILLEGAL USE CASH CARD,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Loop,6,11,11,13,11,5,Positive,6 - Gentrification,Gentrification,6
+274,32.0,14,2002-08-15T12:25:33.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Loop,6,11,11,13,11,5,Positive,6 - Gentrification,Gentrification,6
+275,32.0,08A,2002-05-10T18:34:46.000,SIMPLE,,,ASSAULT,2002,Simple Assault ,08A,Violent,Loop,6,11,11,13,11,5,Positive,6 - Gentrification,Gentrification,6
+276,34.0,18,2002-11-02T12:00:00.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Armour Square,-7,-3,-1,-3,-1,6,Positive,5 - Not Gentrification,Not Gentrification,5
+277,34.0,08B,2002-05-28T15:40:00.000,SIMPLE,41.825134404,-87.63310031,BATTERY,2002,Simple Battery ,08B,Violent,Armour Square,-7,-3,-1,-3,-1,6,Positive,5 - Not Gentrification,Not Gentrification,5
+278,34.0,08B,2002-07-06T03:00:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Armour Square,-7,-3,-1,-3,-1,6,Positive,5 - Not Gentrification,Not Gentrification,5
+279,34.0,08B,2002-08-08T23:57:22.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Armour Square,-7,-3,-1,-3,-1,6,Positive,5 - Not Gentrification,Not Gentrification,5
+280,34.0,14,2002-05-13T20:54:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Armour Square,-7,-3,-1,-3,-1,6,Positive,5 - Not Gentrification,Not Gentrification,5
+281,35.0,18,2002-10-03T18:36:00.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Douglas,-5,-5,-5,-6,-1,4,No Change,3 - Poverty,Poverty,3
+282,35.0,18,2002-09-22T11:25:00.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Douglas,-5,-5,-5,-6,-1,4,No Change,3 - Poverty,Poverty,3
+283,35.0,18,2002-05-24T17:10:00.000,POSS: CRACK,41.831101673,-87.617716013,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Douglas,-5,-5,-5,-6,-1,4,No Change,3 - Poverty,Poverty,3
+284,35.0,26,2002-10-16T03:10:00.000,TELEPHONE THREAT,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Douglas,-5,-5,-5,-6,-1,4,No Change,3 - Poverty,Poverty,3
+285,35.0,26,2002-06-14T05:46:00.000,TO LAND,,,CRIMINAL TRESPASS,2002,Misc Non-Index Offense ,26,Nonviolent,Douglas,-5,-5,-5,-6,-1,4,No Change,3 - Poverty,Poverty,3
+286,35.0,26,2002-10-28T03:00:00.000,TELEPHONE THREAT,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Douglas,-5,-5,-5,-6,-1,4,No Change,3 - Poverty,Poverty,3
+287,35.0,08B,2002-08-01T01:35:00.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Douglas,-5,-5,-5,-6,-1,4,No Change,3 - Poverty,Poverty,3
+288,35.0,14,2002-08-28T21:19:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Douglas,-5,-5,-5,-6,-1,4,No Change,3 - Poverty,Poverty,3
+289,35.0,08A,2002-07-14T14:15:00.000,SIMPLE,,,ASSAULT,2002,Simple Assault ,08A,Violent,Douglas,-5,-5,-5,-6,-1,4,No Change,3 - Poverty,Poverty,3
+290,37.0,18,2002-05-24T15:10:00.000,POSS: CANNABIS 30GMS OR LESS,41.80171934,-87.630703621,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Fuller Park,-9,-11,-11,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+291,37.0,18,2002-07-25T17:00:00.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Fuller Park,-9,-11,-11,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+292,38.0,18,2002-06-29T19:35:34.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Grand Boulevard,-11,-11,-11,-9,-9,2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+293,38.0,18,2002-10-15T20:30:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Grand Boulevard,-11,-11,-11,-9,-9,2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+294,38.0,26,2002-11-25T14:30:00.000,OTHER VEHICLE OFFENSE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Grand Boulevard,-11,-11,-11,-9,-9,2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+295,38.0,08B,2002-04-26T10:37:12.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Grand Boulevard,-11,-11,-11,-9,-9,2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+296,38.0,08B,2002-07-16T08:50:00.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Grand Boulevard,-11,-11,-11,-9,-9,2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+297,38.0,14,2002-08-22T22:20:00.000,TO VEHICLE,41.817836986,-87.610442281,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Grand Boulevard,-11,-11,-11,-9,-9,2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+298,41.0,18,2002-04-25T12:45:00.000,MANU/DELIVER:CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Hyde Park,9,9,11,7,7,-2,No Change,2 - Middle Class,Middle Class,2
+299,41.0,08B,2002-06-07T14:00:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Hyde Park,9,9,11,7,7,-2,No Change,2 - Middle Class,Middle Class,2
+300,41.0,11,2002-07-07T00:00:00.000,FINAN EXPLOIT-ELDERLY/DISABLED,41.801401991,-87.605301699,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Hyde Park,9,9,11,7,7,-2,No Change,2 - Middle Class,Middle Class,2
+301,41.0,14,2002-10-03T07:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Hyde Park,9,9,11,7,7,-2,No Change,2 - Middle Class,Middle Class,2
+302,41.0,10,2002-09-13T09:00:00.000,FORGERY,,,DECEPTIVE PRACTICE,2002,Forgery & Counterfeiting ,10,Nonviolent,Hyde Park,9,9,11,7,7,-2,No Change,2 - Middle Class,Middle Class,2
+303,43.0,18,2002-05-25T20:00:00.000,POSS: CRACK,41.758571453,-87.561511043,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,South Shore,-1,-3,-7,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+304,43.0,18,2002-08-07T20:09:00.000,MANU/DELIVER:CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,South Shore,-1,-3,-7,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+305,43.0,18,2002-04-26T22:33:08.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,South Shore,-1,-3,-7,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+306,43.0,18,2002-07-07T18:28:36.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,South Shore,-1,-3,-7,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+307,43.0,17,2002-01-01T00:00:00.000,CRIMINAL SEXUAL ABUSE,,,SEX OFFENSE,2002,Criminal Sexual Abuse ,17,Nonviolent,South Shore,-1,-3,-7,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+308,43.0,08B,2002-11-20T15:49:23.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,South Shore,-1,-3,-7,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+309,43.0,08B,2002-05-18T11:20:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,South Shore,-1,-3,-7,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+310,43.0,11,2002-06-02T06:00:00.000,FINANCIAL IDENTITY THEFT OVER $ 300,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,South Shore,-1,-3,-7,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+311,43.0,14,2002-06-08T10:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,South Shore,-1,-3,-7,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+312,43.0,14,2002-06-09T23:45:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,South Shore,-1,-3,-7,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+313,43.0,14,2002-09-02T07:30:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,South Shore,-1,-3,-7,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+314,43.0,16,2002-05-09T23:29:46.000,SOLICIT FOR BUSINESS,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,South Shore,-1,-3,-7,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+315,46.0,18,2002-11-11T13:02:03.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,South Chicago,-1,-5,-9,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+316,46.0,18,2002-06-03T01:52:03.000,POSS: COCAINE,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,South Chicago,-1,-5,-9,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+317,46.0,18,2002-08-07T21:16:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,South Chicago,-1,-5,-9,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+318,46.0,08B,2002-08-06T17:07:28.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,South Chicago,-1,-5,-9,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+319,46.0,14,2002-10-22T15:23:40.000,TO PROPERTY,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,South Chicago,-1,-5,-9,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+320,46.0,20,2002-01-01T00:01:00.000,AGG CRIM SEX ABUSE FAM MEMBER,41.736940053,-87.550034589,OFFENSE INVOLVING CHILDREN,2002,Offenses Against Family ,20,Nonviolent,South Chicago,-1,-5,-9,-11,-11,-10,Negative,9 - Serious Decline,Serious Decline,9
+321,47.0,18,2002-11-04T19:15:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Burnside,1,-1,-5,-7,-9,-10,Negative,9 - Serious Decline,Serious Decline,9
+322,49.0,18,2002-09-11T18:44:40.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Roseland,-1,-3,-3,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+323,49.0,18,2002-07-09T23:45:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Roseland,-1,-3,-3,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+324,49.0,08B,2002-04-26T15:40:14.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Roseland,-1,-3,-3,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+325,49.0,08B,2002-09-28T19:34:57.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Roseland,-1,-3,-3,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+326,49.0,14,2002-10-05T06:30:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Roseland,-1,-3,-3,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+327,49.0,16,2002-10-03T00:23:15.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,Roseland,-1,-3,-3,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+328,51.0,18,2002-05-23T07:30:00.000,POSS: CANNABIS 30GMS OR LESS,41.708029389,-87.569290282,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,South Deering,3,-1,-5,-11,-11,-14,Negative,9 - Serious Decline,Serious Decline,9
+329,51.0,08B,2002-07-23T15:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,South Deering,3,-1,-5,-11,-11,-14,Negative,9 - Serious Decline,Serious Decline,9
+330,51.0,14,2002-12-19T14:10:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,South Deering,3,-1,-5,-11,-11,-14,Negative,9 - Serious Decline,Serious Decline,9
+331,58.0,18,2002-10-14T18:15:00.000,POSS: COCAINE,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Brighton Park,3,3,1,-3,-7,-10,Negative,9 - Serious Decline,Serious Decline,9
+332,58.0,08B,2002-12-19T15:45:00.000,SIMPLE,41.828154679,-87.700527837,BATTERY,2002,Simple Battery ,08B,Violent,Brighton Park,3,3,1,-3,-7,-10,Negative,9 - Serious Decline,Serious Decline,9
+333,58.0,14,2002-05-26T19:30:00.000,TO PROPERTY,41.822908343,-87.688321961,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Brighton Park,3,3,1,-3,-7,-10,Negative,9 - Serious Decline,Serious Decline,9
+334,58.0,14,2002-05-26T14:15:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Brighton Park,3,3,1,-3,-7,-10,Negative,9 - Serious Decline,Serious Decline,9
+335,58.0,08A,2002-11-09T23:45:00.000,SIMPLE,,,ASSAULT,2002,Simple Assault ,08A,Violent,Brighton Park,3,3,1,-3,-7,-10,Negative,9 - Serious Decline,Serious Decline,9
+336,58.0,20,2002-07-01T00:01:00.000,AGG CRIM SEX ABUSE FAM MEMBER,41.815481847,-87.698579957,OFFENSE INVOLVING CHILDREN,2002,Offenses Against Family ,20,Nonviolent,Brighton Park,3,3,1,-3,-7,-10,Negative,9 - Serious Decline,Serious Decline,9
+337,59.0,18,2002-10-08T21:15:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,McKinley Park,5,3,1,-1,-1,-6,Negative,7 - Mild Decline,Mild Decline,7
+338,59.0,26,2002-07-08T18:17:00.000,TO LAND,,,CRIMINAL TRESPASS,2002,Misc Non-Index Offense ,26,Nonviolent,McKinley Park,5,3,1,-1,-1,-6,Negative,7 - Mild Decline,Mild Decline,7
+339,59.0,17,2002-10-22T22:30:00.000,FORNICATION,,,SEX OFFENSE,2002,Criminal Sexual Abuse ,17,Nonviolent,McKinley Park,5,3,1,-1,-1,-6,Negative,7 - Mild Decline,Mild Decline,7
+340,59.0,14,2002-07-26T15:51:01.000,TO PROPERTY,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,McKinley Park,5,3,1,-1,-1,-6,Negative,7 - Mild Decline,Mild Decline,7
+341,59.0,14,2002-04-25T20:15:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,McKinley Park,5,3,1,-1,-1,-6,Negative,7 - Mild Decline,Mild Decline,7
+342,59.0,08A,2002-08-23T14:32:28.000,SIMPLE,,,ASSAULT,2002,Simple Assault ,08A,Violent,McKinley Park,5,3,1,-1,-1,-6,Negative,7 - Mild Decline,Mild Decline,7
+343,61.0,18,2002-07-05T19:33:55.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+344,61.0,18,2002-05-28T20:20:00.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+345,61.0,18,2002-10-21T22:45:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+346,61.0,18,2002-06-17T10:40:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+347,61.0,18,2002-11-03T21:55:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+348,61.0,08B,2002-08-31T00:14:03.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+349,61.0,08B,2002-09-28T16:37:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+350,61.0,08B,2002-06-23T20:15:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+351,61.0,08B,2002-05-10T23:58:44.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+352,61.0,11,2002-10-28T08:00:00.000,FRAUD OR CONFIDENCE GAME,41.800645741,-87.668410415,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+353,61.0,14,2002-04-30T23:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+354,61.0,14,2002-09-29T14:39:02.000,TO PROPERTY,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+355,61.0,16,2002-04-22T10:15:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+356,61.0,16,2002-06-25T08:20:00.000,SOLICIT FOR BUSINESS,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+357,61.0,16,2002-05-20T20:00:00.000,SOLICIT FOR BUSINESS,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+358,61.0,16,2002-07-29T13:02:07.000,SOLICIT FOR BUSINESS,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+359,61.0,16,2002-05-20T20:00:00.000,SOLICIT FOR BUSINESS,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+360,61.0,16,2002-10-24T21:45:00.000,SOLICIT FOR BUSINESS,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+361,61.0,16,2002-10-21T20:15:00.000,SOLICIT FOR BUSINESS,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+362,61.0,16,2002-10-24T22:30:00.000,SOLICIT FOR BUSINESS,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+363,61.0,16,2002-06-24T21:30:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+364,61.0,22,2002-07-07T11:45:00.000,SELL/GIVE/DEL LIQUOR TO MINOR,,,LIQUOR LAW VIOLATION,2002,Liquor License ,22,Nonviolent,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+365,67.0,18,2002-04-28T19:30:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,West Englewood,-7,-7,-7,-7,-9,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+366,67.0,18,2002-05-08T22:45:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,West Englewood,-7,-7,-7,-7,-9,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+367,67.0,08B,2002-07-30T15:50:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,West Englewood,-7,-7,-7,-7,-9,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+368,67.0,11,2002-08-25T23:00:00.000,CREDIT CARD FRAUD,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,West Englewood,-7,-7,-7,-7,-9,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+369,68.0,18,2002-05-16T19:07:06.000,MANU/DELIVER:CRACK,41.766081942,-87.645659611,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Englewood,-9,-9,-9,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+370,68.0,18,2002-06-24T13:30:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Englewood,-9,-9,-9,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+371,68.0,18,2002-08-22T23:18:50.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Englewood,-9,-9,-9,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+372,68.0,18,2002-04-28T20:15:00.000,MANU/DELIVER:CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Englewood,-9,-9,-9,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+373,68.0,26,2002-01-01T16:00:00.000,OTHER CRIME INVOLVING PROPERTY,41.764393665,-87.64924782,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Englewood,-9,-9,-9,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+374,68.0,08B,2002-05-21T15:30:00.000,SIMPLE,41.782505513,-87.643199914,BATTERY,2002,Simple Battery ,08B,Violent,Englewood,-9,-9,-9,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+375,68.0,08B,2002-05-21T20:40:00.000,SIMPLE,41.786402997,-87.643755794,BATTERY,2002,Simple Battery ,08B,Violent,Englewood,-9,-9,-9,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+376,68.0,08B,2002-10-22T14:40:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Englewood,-9,-9,-9,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+377,68.0,08B,2002-06-03T15:00:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Englewood,-9,-9,-9,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+378,68.0,08A,2002-11-06T08:09:30.000,PRO EMP HANDS NO/MIN INJURY,,,ASSAULT,2002,Simple Assault ,08A,Violent,Englewood,-9,-9,-9,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+379,69.0,18,2002-08-21T12:00:00.000,POSS: CANNABIS 30GMS OR LESS,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Greater Grand,-7,-9,-9,-11,-11,-4,No Change,4 - Extreme Poverty,Extreme Poverty,4
+380,69.0,18,2002-10-28T17:25:40.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Greater Grand,-7,-9,-9,-11,-11,-4,No Change,4 - Extreme Poverty,Extreme Poverty,4
+381,69.0,08B,2002-09-02T04:28:56.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Greater Grand,-7,-9,-9,-11,-11,-4,No Change,4 - Extreme Poverty,Extreme Poverty,4
+382,69.0,14,2002-05-07T02:00:00.000,TO PROPERTY,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Greater Grand,-7,-9,-9,-11,-11,-4,No Change,4 - Extreme Poverty,Extreme Poverty,4
+383,69.0,14,2002-09-08T16:48:58.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Greater Grand,-7,-9,-9,-11,-11,-4,No Change,4 - Extreme Poverty,Extreme Poverty,4
+384,69.0,14,2002-10-09T21:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Greater Grand,-7,-9,-9,-11,-11,-4,No Change,4 - Extreme Poverty,Extreme Poverty,4
+385,73.0,18,2002-11-17T11:54:26.000,POSS: HEROIN(WHITE),,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Washington Heights,1,-1,1,-3,-5,-6,Negative,7 - Mild Decline,Mild Decline,7
+386,73.0,18,2002-06-11T13:26:13.000,POSS: CRACK,,,NARCOTICS,2002,Drug Abuse ,18,Nonviolent,Washington Heights,1,-1,1,-3,-5,-6,Negative,7 - Mild Decline,Mild Decline,7
+387,73.0,26,2002-10-20T20:45:00.000,SEX OFFENDER: FAIL TO REGISTER,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Washington Heights,1,-1,1,-3,-5,-6,Negative,7 - Mild Decline,Mild Decline,7
+388,73.0,26,2002-11-29T02:00:00.000,OTHER VEHICLE OFFENSE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Washington Heights,1,-1,1,-3,-5,-6,Negative,7 - Mild Decline,Mild Decline,7
+389,5.0,26,2002-10-11T00:30:00.000,OTHER VEHICLE OFFENSE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,North Center,5,1,7,11,13,8,Positive,6 - Gentrification,Gentrification,6
+390,5.0,08B,2002-09-17T15:00:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,North Center,5,1,7,11,13,8,Positive,6 - Gentrification,Gentrification,6
+391,5.0,08B,2002-07-09T22:00:00.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,North Center,5,1,7,11,13,8,Positive,6 - Gentrification,Gentrification,6
+392,14.0,26,2002-08-17T21:15:00.000,TO VEHICLE,,,CRIMINAL TRESPASS,2002,Misc Non-Index Offense ,26,Nonviolent,Albany Park,3,5,1,-1,-3,-6,Negative,7 - Mild Decline,Mild Decline,7
+393,14.0,08B,2002-02-14T08:30:00.000,SIMPLE,41.967036336,-87.713323052,BATTERY,2002,Simple Battery ,08B,Violent,Albany Park,3,5,1,-1,-3,-6,Negative,7 - Mild Decline,Mild Decline,7
+394,14.0,16,2002-09-01T12:00:00.000,PIMPING,41.970265247,-87.745471529,PROSTITUTION,2002,Prostitution ,16,Nonviolent,Albany Park,3,5,1,-1,-3,-6,Negative,7 - Mild Decline,Mild Decline,7
+395,15.0,26,2002-05-17T10:00:00.000,OTHER VEHICLE OFFENSE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Portage Park,7,7,7,7,5,-2,No Change,2 - Middle Class,Middle Class,2
+396,15.0,08B,2002-10-02T15:00:00.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Portage Park,7,7,7,7,5,-2,No Change,2 - Middle Class,Middle Class,2
+397,15.0,11,2002-08-24T03:43:00.000,THEFT OF LABOR/SERVICES,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Portage Park,7,7,7,7,5,-2,No Change,2 - Middle Class,Middle Class,2
+398,16.0,26,2002-10-14T12:30:00.000,OTHER VEHICLE OFFENSE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Irving Park,5,7,5,5,7,2,No Change,2 - Middle Class,Middle Class,2
+399,16.0,17,2002-06-11T08:30:00.000,PUBLIC INDECENCY,,,SEX OFFENSE,2002,Criminal Sexual Abuse ,17,Nonviolent,Irving Park,5,7,5,5,7,2,No Change,2 - Middle Class,Middle Class,2
+400,16.0,14,2002-07-23T20:00:00.000,TO PROPERTY,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Irving Park,5,7,5,5,7,2,No Change,2 - Middle Class,Middle Class,2
+401,16.0,10,2002-09-26T16:00:00.000,FORGERY,,,DECEPTIVE PRACTICE,2002,Forgery & Counterfeiting ,10,Nonviolent,Irving Park,5,7,5,5,7,2,No Change,2 - Middle Class,Middle Class,2
+402,21.0,26,2002-05-20T19:14:16.000,TO LAND,,,CRIMINAL TRESPASS,2002,Misc Non-Index Offense ,26,Nonviolent,Avondale,5,1,3,-3,-3,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+403,21.0,26,2002-10-26T09:00:00.000,TO LAND,,,CRIMINAL TRESPASS,2002,Misc Non-Index Offense ,26,Nonviolent,Avondale,5,1,3,-3,-3,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+404,21.0,08B,2002-06-18T21:55:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Avondale,5,1,3,-3,-3,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+405,21.0,08B,2002-08-16T14:00:00.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Avondale,5,1,3,-3,-3,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+406,21.0,08B,2002-08-14T18:46:03.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Avondale,5,1,3,-3,-3,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+407,21.0,11,2002-10-17T07:25:00.000,BOGUS CHECK,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Avondale,5,1,3,-3,-3,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+408,33.0,26,2002-11-05T03:00:00.000,OTHER CRIME INVOLVING PROPERTY,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Near South Side,-10,-9,-7,0,13,23,Positive,6 - Gentrification,Gentrification,6
+409,33.0,08B,2002-05-25T01:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Near South Side,-10,-9,-7,0,13,23,Positive,6 - Gentrification,Gentrification,6
+410,33.0,11,2002-03-19T12:00:00.000,BOGUS CHECK,41.866940583,-87.630426795,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Near South Side,-10,-9,-7,0,13,23,Positive,6 - Gentrification,Gentrification,6
+411,33.0,20,2002-11-01T20:00:00.000,AGG CRIM SEX ABUSE FAM MEMBER,41.850330711,-87.627026373,OFFENSE INVOLVING CHILDREN,2002,Offenses Against Family ,20,Nonviolent,Near South Side,-10,-9,-7,0,13,23,Positive,6 - Gentrification,Gentrification,6
+412,36.0,26,2002-11-28T21:00:00.000,OTHER VEHICLE OFFENSE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Oakland,-9,-9,-9,-7,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+413,40.0,26,2002-11-24T22:35:00.000,OTHER VEHICLE OFFENSE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Washington Park,-9,-11,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+414,40.0,08B,2002-08-28T14:30:00.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Washington Park,-9,-11,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+415,40.0,08A,2002-10-09T19:36:07.000,SIMPLE,,,ASSAULT,2002,Simple Assault ,08A,Violent,Washington Park,-9,-11,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+416,42.0,26,2002-05-24T19:30:00.000,HARASSMENT BY TELEPHONE,41.785774983,-87.611656908,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Woodlawn,-9,-11,-11,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+417,42.0,08B,2002-05-09T22:25:39.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Woodlawn,-9,-11,-11,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+418,42.0,08B,2002-08-28T15:40:00.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Woodlawn,-9,-11,-11,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+419,42.0,08B,2002-06-29T23:14:50.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Woodlawn,-9,-11,-11,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+420,42.0,11,2002-06-01T00:05:00.000,THEFT OF LOST/MISLAID PROP,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Woodlawn,-9,-11,-11,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+421,42.0,08A,2002-06-17T00:50:00.000,SIMPLE,,,ASSAULT,2002,Simple Assault ,08A,Violent,Woodlawn,-9,-11,-11,-11,-11,-2,No Change,4 - Extreme Poverty,Extreme Poverty,4
+422,44.0,26,2002-09-28T03:00:00.000,TELEPHONE THREAT,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Chatham,5,-3,-5,-7,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+423,44.0,11,2002-10-20T21:02:00.000,CREDIT CARD FRAUD,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Chatham,5,-3,-5,-7,-11,-16,Negative,9 - Serious Decline,Serious Decline,9
+424,53.0,26,2002-04-20T19:00:00.000,SOLICIT NARCOTICS ON PUBLICWAY,,,NARCOTICS,2002,Misc Non-Index Offense ,26,Nonviolent,West Pullman,5,-5,-3,-7,-9,-14,Negative,9 - Serious Decline,Serious Decline,9
+425,53.0,08B,2002-05-27T23:40:00.000,SIMPLE,41.670021366,-87.640446083,BATTERY,2002,Simple Battery ,08B,Violent,West Pullman,5,-5,-3,-7,-9,-14,Negative,9 - Serious Decline,Serious Decline,9
+426,53.0,14,2002-06-17T07:00:00.000,TO PROPERTY,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,West Pullman,5,-5,-3,-7,-9,-14,Negative,9 - Serious Decline,Serious Decline,9
+427,53.0,16,2002-09-26T05:10:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,West Pullman,5,-5,-3,-7,-9,-14,Negative,9 - Serious Decline,Serious Decline,9
+428,53.0,08A,2002-10-14T23:45:00.000,SIMPLE,,,ASSAULT,2002,Simple Assault ,08A,Violent,West Pullman,5,-5,-3,-7,-9,-14,Negative,9 - Serious Decline,Serious Decline,9
+429,63.0,26,2002-10-06T01:00:00.000,OTHER VEHICLE OFFENSE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Gage Park,3,5,1,-5,-5,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+430,63.0,14,2002-09-10T21:03:07.000,TO PROPERTY,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Gage Park,3,5,1,-5,-5,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+431,63.0,20,2002-06-01T00:00:00.000,CRIM SEX ABUSE BY FAM MEMBER,41.791424824,-87.687632924,OFFENSE INVOLVING CHILDREN,2002,Offenses Against Family ,20,Nonviolent,Gage Park,3,5,1,-5,-5,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+432,71.0,26,2002-11-01T09:00:00.000,HARASSMENT BY TELEPHONE,41.753414264,-87.661901898,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Auburn Gresham,1,-3,-3,-9,-9,-10,Negative,9 - Serious Decline,Serious Decline,9
+433,71.0,08B,2002-10-28T11:00:00.000,PRO EMP HANDS NO/MIN INJURY,,,BATTERY,2002,Simple Battery ,08B,Violent,Auburn Gresham,1,-3,-3,-9,-9,-10,Negative,9 - Serious Decline,Serious Decline,9
+434,71.0,11,2002-06-03T18:00:00.000,THEFT OF LOST/MISLAID PROP,41.734051117,-87.657340716,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Auburn Gresham,1,-3,-3,-9,-9,-10,Negative,9 - Serious Decline,Serious Decline,9
+435,71.0,20,2002-11-06T15:35:00.000,CHILD ABDUCTION/STRANGER,,,KIDNAPPING,2002,Offenses Against Family ,20,Nonviolent,Auburn Gresham,1,-3,-3,-9,-9,-10,Negative,9 - Serious Decline,Serious Decline,9
+436,71.0,13,2002-07-12T11:45:00.000,STOLEN PROP: BUY/RECEIVE/POS.,,,DECEPTIVE PRACTICE,2002,Stolen Property ,13,Nonviolent,Auburn Gresham,1,-3,-3,-9,-9,-10,Negative,9 - Serious Decline,Serious Decline,9
+437,76.0,26,2002-01-04T09:00:00.000,TO LAND,41.976290414,-87.905227221,CRIMINAL TRESPASS,2002,Misc Non-Index Offense ,26,Nonviolent,O'Hare,11,11,9,9,5,-6,Negative,7 - Mild Decline,Mild Decline,7
+438,77.0,26,2002-11-05T15:00:00.000,OTHER CRIME INVOLVING PROPERTY,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Edgewater,7,9,9,7,9,2,No Change,1 - Upper Class,Upper Class,1
+439,77.0,26,2002-09-27T18:00:00.000,OTHER VEHICLE OFFENSE,,,OTHER OFFENSE,2002,Misc Non-Index Offense ,26,Nonviolent,Edgewater,7,9,9,7,9,2,No Change,1 - Upper Class,Upper Class,1
+440,77.0,08A,2002-08-10T13:58:39.000,SIMPLE,,,ASSAULT,2002,Simple Assault ,08A,Violent,Edgewater,7,9,9,7,9,2,No Change,1 - Upper Class,Upper Class,1
+441,65.0,17,2002-05-29T07:00:00.000,PUBLIC INDECENCY,41.784004088,-87.715547911,SEX OFFENSE,2002,Criminal Sexual Abuse ,17,Nonviolent,West Lawn,5,7,7,1,-3,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+442,65.0,14,2002-08-04T15:45:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,West Lawn,5,7,7,1,-3,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+443,65.0,08A,2002-06-18T06:50:00.000,SIMPLE,,,ASSAULT,2002,Simple Assault ,08A,Violent,West Lawn,5,7,7,1,-3,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+444,2.0,08B,2002-10-25T21:30:00.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,West Ridge,11,11,11,11,7,-4,No Change,2 - Middle Class,Middle Class,2
+445,2.0,08B,2002-04-26T03:00:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,West Ridge,11,11,11,11,7,-4,No Change,2 - Middle Class,Middle Class,2
+446,2.0,11,2002-08-16T15:05:00.000,FRAUD OR CONFIDENCE GAME,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,West Ridge,11,11,11,11,7,-4,No Change,2 - Middle Class,Middle Class,2
+447,6.0,08B,2002-07-01T00:27:24.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Lake View,5,7,11,11,11,6,Positive,6 - Gentrification,Gentrification,6
+448,6.0,08B,2002-06-14T21:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Lake View,5,7,11,11,11,6,Positive,6 - Gentrification,Gentrification,6
+449,6.0,08B,2002-07-13T03:57:29.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Lake View,5,7,11,11,11,6,Positive,6 - Gentrification,Gentrification,6
+450,6.0,11,2002-10-15T00:00:00.000,FRAUD OR CONFIDENCE GAME,41.939902161,-87.654715152,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Lake View,5,7,11,11,11,6,Positive,6 - Gentrification,Gentrification,6
+451,6.0,11,2002-12-03T12:00:00.000,FRAUD OR CONFIDENCE GAME,41.93659865,-87.638288379,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Lake View,5,7,11,11,11,6,Positive,6 - Gentrification,Gentrification,6
+452,6.0,11,2002-09-25T21:00:00.000,CREDIT CARD FRAUD,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Lake View,5,7,11,11,11,6,Positive,6 - Gentrification,Gentrification,6
+453,6.0,11,2002-05-24T02:27:28.000,THEFT OF LABOR/SERVICES,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Lake View,5,7,11,11,11,6,Positive,6 - Gentrification,Gentrification,6
+454,6.0,14,2002-09-28T00:30:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Lake View,5,7,11,11,11,6,Positive,6 - Gentrification,Gentrification,6
+455,6.0,14,2002-09-04T19:15:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Lake View,5,7,11,11,11,6,Positive,6 - Gentrification,Gentrification,6
+456,6.0,14,2002-07-18T06:00:00.000,CRIMINAL DEFACEMENT,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Lake View,5,7,11,11,11,6,Positive,6 - Gentrification,Gentrification,6
+457,6.0,14,2002-04-23T16:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Lake View,5,7,11,11,11,6,Positive,6 - Gentrification,Gentrification,6
+458,6.0,08A,2002-07-08T00:50:00.000,SIMPLE,,,ASSAULT,2002,Simple Assault ,08A,Violent,Lake View,5,7,11,11,11,6,Positive,6 - Gentrification,Gentrification,6
+459,10.0,08B,2002-09-13T23:00:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Norwood Park,9,9,9,8,7,-2,No Change,2 - Middle Class,Middle Class,2
+460,10.0,08B,2002-06-29T16:54:00.000,SIMPLE,41.985656459,-87.831398891,BATTERY,2002,Simple Battery ,08B,Violent,Norwood Park,9,9,9,8,7,-2,No Change,2 - Middle Class,Middle Class,2
+461,10.0,14,2002-11-01T08:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Norwood Park,9,9,9,8,7,-2,No Change,2 - Middle Class,Middle Class,2
+462,10.0,10,2002-08-12T12:00:00.000,FORGERY,41.996006062,-87.786605964,DECEPTIVE PRACTICE,2002,Forgery & Counterfeiting ,10,Nonviolent,Norwood Park,9,9,9,8,7,-2,No Change,2 - Middle Class,Middle Class,2
+463,20.0,08B,2002-11-20T18:30:00.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Hermosa,5,3,1,-3,-3,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+464,22.0,08B,2002-11-04T20:09:00.000,PRO EMP HANDS NO/MIN INJURY,,,BATTERY,2002,Simple Battery ,08B,Violent,Logan Square,1,-5,-9,-5,7,6,Positive,5 - Not Gentrification,Not Gentrification,5
+465,22.0,08B,2002-07-31T19:20:00.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Logan Square,1,-5,-9,-5,7,6,Positive,5 - Not Gentrification,Not Gentrification,5
+466,22.0,08B,2002-06-22T23:35:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Logan Square,1,-5,-9,-5,7,6,Positive,5 - Not Gentrification,Not Gentrification,5
+467,22.0,08B,2002-06-23T00:15:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Logan Square,1,-5,-9,-5,7,6,Positive,5 - Not Gentrification,Not Gentrification,5
+468,22.0,11,2002-09-12T21:00:00.000,THEFT OF LABOR/SERVICES,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Logan Square,1,-5,-9,-5,7,6,Positive,5 - Not Gentrification,Not Gentrification,5
+469,22.0,14,2002-07-19T13:30:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Logan Square,1,-5,-9,-5,7,6,Positive,5 - Not Gentrification,Not Gentrification,5
+470,22.0,14,2002-04-25T08:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Logan Square,1,-5,-9,-5,7,6,Positive,5 - Not Gentrification,Not Gentrification,5
+471,22.0,14,2002-10-20T09:40:00.000,TO PROPERTY,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Logan Square,1,-5,-9,-5,7,6,Positive,5 - Not Gentrification,Not Gentrification,5
+472,22.0,14,2002-05-27T15:00:00.000,TO PROPERTY,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Logan Square,1,-5,-9,-5,7,6,Positive,5 - Not Gentrification,Not Gentrification,5
+473,22.0,14,2002-05-28T21:22:06.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Logan Square,1,-5,-9,-5,7,6,Positive,5 - Not Gentrification,Not Gentrification,5
+474,22.0,16,2002-07-27T09:00:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,Logan Square,1,-5,-9,-5,7,6,Positive,5 - Not Gentrification,Not Gentrification,5
+475,22.0,20,2002-07-01T09:00:00.000,AGG CRIM SEX ABUSE FAM MEMBER,41.922072515,-87.685520019,OFFENSE INVOLVING CHILDREN,2002,Offenses Against Family ,20,Nonviolent,Logan Square,1,-5,-9,-5,7,6,Positive,5 - Not Gentrification,Not Gentrification,5
+476,54.0,08B,2002-05-15T14:35:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Riverdale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+477,54.0,08B,2002-06-23T01:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Riverdale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty,Extreme Poverty,4
+478,60.0,08B,2002-07-10T23:45:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Bridgeport,-1,3,1,1,7,8,Positive,5 - Not Gentrification,Not Gentrification,5
+479,60.0,11,2002-08-04T01:53:28.000,THEFT OF LOST/MISLAID PROP,,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Bridgeport,-1,3,1,1,7,8,Positive,5 - Not Gentrification,Not Gentrification,5
+480,60.0,14,2002-05-05T11:41:00.000,TO PROPERTY,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Bridgeport,-1,3,1,1,7,8,Positive,5 - Not Gentrification,Not Gentrification,5
+481,60.0,16,2002-09-14T12:45:00.000,SOLICIT ON PUBLIC WAY,,,PROSTITUTION,2002,Prostitution ,16,Nonviolent,Bridgeport,-1,3,1,1,7,8,Positive,5 - Not Gentrification,Not Gentrification,5
+482,66.0,08B,2002-06-17T21:38:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Chicago Lawn,5,5,2,-9,-9,-14,Negative,9 - Serious Decline,Serious Decline,9
+483,66.0,08B,2002-10-18T19:52:01.000,DOMESTIC BATTERY SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Chicago Lawn,5,5,2,-9,-9,-14,Negative,9 - Serious Decline,Serious Decline,9
+484,66.0,08B,2002-04-28T17:23:23.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Chicago Lawn,5,5,2,-9,-9,-14,Negative,9 - Serious Decline,Serious Decline,9
+485,66.0,14,2002-06-07T18:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Chicago Lawn,5,5,2,-9,-9,-14,Negative,9 - Serious Decline,Serious Decline,9
+486,66.0,20,2002-01-01T00:00:00.000,AGG CRIM SEX ABUSE FAM MEMBER,41.762260854,-87.692965274,OFFENSE INVOLVING CHILDREN,2002,Offenses Against Family ,20,Nonviolent,Chicago Lawn,5,5,2,-9,-9,-14,Negative,9 - Serious Decline,Serious Decline,9
+487,66.0,20,2002-01-01T00:00:00.000,AGG CRIM SEX ABUSE FAM MEMBER,,,OFFENSE INVOLVING CHILDREN,2002,Offenses Against Family ,20,Nonviolent,Chicago Lawn,5,5,2,-9,-9,-14,Negative,9 - Serious Decline,Serious Decline,9
+488,70.0,08B,2002-09-26T13:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Ashburn,9,7,1,1,-1,-10,Negative,9 - Serious Decline,Serious Decline,9
+489,70.0,08B,2002-07-04T16:17:14.000,SIMPLE,41.735176211,-87.702698048,BATTERY,2002,Simple Battery ,08B,Violent,Ashburn,9,7,1,1,-1,-10,Negative,9 - Serious Decline,Serious Decline,9
+490,70.0,08A,2002-05-17T21:08:00.000,SIMPLE,,,STALKING,2002,Simple Assault ,08A,Violent,Ashburn,9,7,1,1,-1,-10,Negative,9 - Serious Decline,Serious Decline,9
+491,70.0,20,2002-09-04T00:01:00.000,CRIM SEX ABUSE BY FAM MEMBER,,,OFFENSE INVOLVING CHILDREN,2002,Offenses Against Family ,20,Nonviolent,Ashburn,9,7,1,1,-1,-10,Negative,9 - Serious Decline,Serious Decline,9
+492,75.0,08B,2002-08-16T22:25:00.000,SIMPLE,41.695033004,-87.666379697,BATTERY,2002,Simple Battery ,08B,Violent,Morgan Park,5,3,3,3,1,-4,No Change,2 - Middle Class,Middle Class,2
+493,75.0,08B,2002-05-19T22:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Morgan Park,5,3,3,3,1,-4,No Change,2 - Middle Class,Middle Class,2
+494,75.0,08B,2002-07-24T14:30:00.000,SIMPLE,,,BATTERY,2002,Simple Battery ,08B,Violent,Morgan Park,5,3,3,3,1,-4,No Change,2 - Middle Class,Middle Class,2
+495,56.0,11,2002-10-03T21:00:00.000,"THEFT BY LESSEE,MOTOR VEH",,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Garfield Ridge,5,7,7,7,1,-4,No Change,2 - Middle Class,Middle Class,2
+496,56.0,08A,2002-10-31T23:30:00.000,SIMPLE,,,ASSAULT,2002,Simple Assault ,08A,Violent,Garfield Ridge,5,7,7,7,1,-4,No Change,2 - Middle Class,Middle Class,2
+497,56.0,10,2002-06-10T15:00:00.000,FORGERY,41.801575767,-87.740546283,DECEPTIVE PRACTICE,2002,Forgery & Counterfeiting ,10,Nonviolent,Garfield Ridge,5,7,7,7,1,-4,No Change,2 - Middle Class,Middle Class,2
+498,64.0,11,2002-10-31T09:00:00.000,FRAUD OR CONFIDENCE GAME,41.778324321,-87.747686071,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Clearing,5,9,7,5,1,-4,No Change,2 - Middle Class,Middle Class,2
+499,64.0,11,2002-09-26T15:30:00.000,"THEFT BY LESSEE,MOTOR VEH",,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Clearing,5,9,7,5,1,-4,No Change,2 - Middle Class,Middle Class,2
+500,64.0,11,2002-10-11T17:53:00.000,"THEFT BY LESSEE,MOTOR VEH",,,DECEPTIVE PRACTICE,2002,Fraud ,11,White Collar,Clearing,5,9,7,5,1,-4,No Change,2 - Middle Class,Middle Class,2
+501,18.0,14,2002-10-09T05:30:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Montclare,7,7,7,5,-1,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+502,18.0,14,2002-05-25T21:05:00.000,TO PROPERTY,41.93552235,-87.803896818,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Montclare,7,7,7,5,-1,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+503,18.0,14,2002-05-25T15:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Montclare,7,7,7,5,-1,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+504,45.0,14,2002-06-25T06:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Avalon Park,5,5,7,-1,-5,-10,Negative,9 - Serious Decline,Serious Decline,9
+505,48.0,14,2002-09-08T05:00:00.000,TO VEHICLE,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Calumet Heights,5,5,7,5,1,-4,No Change,2 - Middle Class,Middle Class,2
+506,57.0,14,2002-07-25T17:00:00.000,TO PROPERTY,,,CRIMINAL DAMAGE,2002,Vandalism ,14,Nonviolent,Archer Heights,5,5,5,3,-3,-8,Negative,8 - Moderate Decline,Moderate Decline,8
+507,39.0,20,2002-09-01T00:01:00.000,AGG CRIM SEX ABUSE FAM MEMBER,41.808606225,-87.602788251,OFFENSE INVOLVING CHILDREN,2002,Offenses Against Family ,20,Nonviolent,Kenwood,-3,-3,1,1,1,4,No Change,2 - Middle Class,Middle Class,2
