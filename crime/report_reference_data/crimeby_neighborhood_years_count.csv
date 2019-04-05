@@ -1,33 +1,33 @@
-,DS_Subset,Neighborhood,Class_Code,Class_Code,Class_Code,Class_Code,Class_Code,Class_Code,Class_Code,Class_Code,Class_Code
-ds_fbi_group,,,Nonviolent_2002,Violent_2002,White_Collar_2002,Nonviolent_2010,Violent_2010,White_Collar_2010,Nonviolent_2018,Violent_2018,White_Collar_2018
-0,Gentrified,Lake View,582,271,109,931,508,296,813,738,494
-1,Gentrified,Lincoln Park,416,173,78,665,294,152,637,362,333
-2,Gentrified,Loop,430,226,158,850,436,365,1050,1006,1167
-3,Gentrified,Near North Side,1102,602,203,1579,945,433,1350,1383,1488
-4,Gentrified,Near South Side,220,152,28,315,189,45,338,260,169
-5,Gentrified,Near West Side,1048,613,67,1549,879,165,1449,1185,547
-6,Gentrified,North Center,245,126,20,332,127,49,208,134,93
-7,Gentrified,Uptown,687,384,106,930,544,123,601,660,246
-8,Gentrified,West Town,1250,616,86,1674,973,209,1104,850,368
-9,Not Gentrified,Armour Square,121,43,4,250,106,28,153,160,51
-10,Not Gentrified,Beverly,136,70,24,224,104,40,205,120,60
-11,Not Gentrified,Bridgeport,242,170,11,522,242,33,345,215,85
-12,Not Gentrified,Calumet Heights,159,100,8,352,215,24,272,262,65
-13,Not Gentrified,Clearing,164,83,24,314,151,18,225,153,60
-14,Not Gentrified,Dunning,257,132,18,471,229,54,321,257,80
-15,Not Gentrified,Edgewater,405,225,39,610,408,81,479,440,177
-16,Not Gentrified,Edison Park,35,17,1,54,37,7,59,50,19
-17,Not Gentrified,Forest Glen,72,26,5,130,52,15,88,45,43
-18,Not Gentrified,Garfield Ridge,370,164,55,625,225,67,545,261,128
-19,Not Gentrified,Hyde Park,194,98,30,312,194,47,355,184,135
-20,Not Gentrified,Irving Park,425,235,26,801,430,63,521,433,125
-21,Not Gentrified,Jefferson Park,151,73,19,324,148,44,241,164,70
-22,Not Gentrified,Kenwood,169,179,12,399,299,28,303,230,77
-23,Not Gentrified,Lincoln Square,245,158,26,481,221,55,375,302,143
-24,Not Gentrified,Logan Square,689,474,69,1279,749,106,787,617,238
-25,Not Gentrified,Morgan Park,322,197,19,658,331,46,486,382,101
-26,Not Gentrified,Mount Greenwood,96,58,9,202,97,25,140,76,49
-27,Not Gentrified,North Park,99,42,8,214,89,15,170,117,57
-28,Not Gentrified,Norwood Park,178,96,14,242,133,35,254,184,85
-29,Not Gentrified,Portage Park,501,202,32,908,472,89,658,532,168
-30,Not Gentrified,West Ridge,338,201,37,968,485,70,692,575,180
+,DS_Subset,Neighborhood,Class_Code,Class_Code,Class_Code,Total_2002,Class_Code,Class_Code,Class_Code,Total_2010,Class_Code,Class_Code,Class_Code,Total_2018
+ds_fbi_group,,,Nonviolent_2002,Violent_2002,White_Collar_2002,,Nonviolent_2010,Violent_2010,White_Collar_2010,,Nonviolent_2018,Violent_2018,White_Collar_2018,
+0,Gentrified,Lake View,1382,657,263,2302,1744,954,529,3227,1055,928,692,2675
+1,Gentrified,Lincoln Park,1162,504,209,1875,1292,551,294,2137,863,475,439,1777
+2,Gentrified,Loop,1214,587,450,2251,1612,831,698,3141,1409,1318,1556,4283
+3,Gentrified,Near North Side,2824,1552,567,4943,2800,1648,866,5314,1784,1849,1929,5562
+4,Gentrified,Near South Side,694,456,55,1205,562,354,87,1003,431,362,237,1030
+5,Gentrified,Near West Side,2840,1518,213,4571,2780,1639,322,4741,1940,1620,771,4331
+6,Gentrified,North Center,664,309,70,1043,594,233,96,923,292,165,127,584
+7,Gentrified,Uptown,1721,1017,242,2980,1769,1000,240,3009,834,858,354,2046
+8,Gentrified,West Town,2986,1545,185,4716,3060,1733,367,5160,1466,1095,551,3112
+9,Not Gentrified,Armour Square,262,113,15,390,445,222,45,712,199,207,75,481
+10,Not Gentrified,Beverly,311,160,46,517,400,182,93,675,285,147,93,525
+11,Not Gentrified,Bridgeport,694,429,39,1162,890,447,57,1394,460,278,124,862
+12,Not Gentrified,Calumet Heights,481,269,27,777,632,369,66,1067,370,348,95,813
+13,Not Gentrified,Clearing,442,216,45,703,552,300,34,886,297,196,92,585
+14,Not Gentrified,Dunning,710,315,43,1068,868,421,101,1390,423,370,112,905
+15,Not Gentrified,Edgewater,977,568,105,1650,1133,726,162,2021,633,585,268,1486
+16,Not Gentrified,Edison Park,110,51,4,165,116,74,17,207,70,72,26,168
+17,Not Gentrified,Forest Glen,208,65,14,287,242,84,34,360,118,59,56,233
+18,Not Gentrified,Garfield Ridge,1035,474,151,1660,1058,439,137,1634,712,326,194,1232
+19,Not Gentrified,Hyde Park,494,282,71,847,575,353,94,1022,492,264,176,932
+20,Not Gentrified,Irving Park,1072,569,68,1709,1432,833,122,2387,702,575,173,1450
+21,Not Gentrified,Jefferson Park,405,208,53,666,553,267,79,899,326,214,87,627
+22,Not Gentrified,Kenwood,447,417,36,900,759,532,55,1346,382,307,115,804
+23,Not Gentrified,Lincoln Square,671,419,69,1159,842,427,93,1362,469,391,192,1052
+24,Not Gentrified,Logan Square,2070,1220,168,3458,2259,1325,198,3782,1085,818,345,2248
+25,Not Gentrified,Morgan Park,824,482,42,1348,1172,625,109,1906,631,483,140,1254
+26,Not Gentrified,Mount Greenwood,248,135,27,410,367,175,49,591,186,104,60,350
+27,Not Gentrified,North Park,251,118,23,392,373,159,37,569,249,157,82,488
+28,Not Gentrified,Norwood Park,436,223,39,698,478,279,99,856,323,258,106,687
+29,Not Gentrified,Portage Park,1356,597,98,2051,1676,873,168,2717,847,710,228,1785
+30,Not Gentrified,West Ridge,998,553,97,1648,1686,857,121,2664,937,754,250,1941
