@@ -5,7 +5,7 @@
 import pandas as pd
 
 df = pd.DataFrame
-df = pd.read_csv('~/Desktop/IL_report_cards_ISBE.net/rc07.csv',delimiter=',',dtype=str,header=None,low_memory=False)
+df = pd.read_csv('~/Desktop/IL_report_cards_ISBE.net/rc07.csv',delimiter=',',header=None,low_memory=False)
 
 df.head()
 
