@@ -1,33 +1,3 @@
-,DS_Subset,Neighborhood,Class_Code,Class_Code,Class_Code,Class_Code,Class_Code,Class_Code,Class_Code,Class_Code,Class_Code
-ds_fbi_group,,,Nonviolent_2002,Violent_2002,White_Collar_2002,Nonviolent_2010,Violent_2010,White_Collar_2010,Nonviolent_2018,Violent_2018,White_Collar_2018
-0,Gentrified,Lake View,582,271,109,931,508,296,813,738,494
-1,Gentrified,Lincoln Park,416,173,78,665,294,152,637,362,333
-2,Gentrified,Loop,430,226,158,850,436,365,1050,1006,1167
-3,Gentrified,Near North Side,1102,602,203,1579,945,433,1350,1383,1488
-4,Gentrified,Near South Side,220,152,28,315,189,45,338,260,169
-5,Gentrified,Near West Side,1048,613,67,1549,879,165,1449,1185,547
-6,Gentrified,North Center,245,126,20,332,127,49,208,134,93
-7,Gentrified,Uptown,687,384,106,930,544,123,601,660,246
-8,Gentrified,West Town,1250,616,86,1674,973,209,1104,850,368
-9,Not Gentrified,Armour Square,121,43,4,250,106,28,153,160,51
-10,Not Gentrified,Beverly,136,70,24,224,104,40,205,120,60
-11,Not Gentrified,Bridgeport,242,170,11,522,242,33,345,215,85
-12,Not Gentrified,Calumet Heights,159,100,8,352,215,24,272,262,65
-13,Not Gentrified,Clearing,164,83,24,314,151,18,225,153,60
-14,Not Gentrified,Dunning,257,132,18,471,229,54,321,257,80
-15,Not Gentrified,Edgewater,405,225,39,610,408,81,479,440,177
-16,Not Gentrified,Edison Park,35,17,1,54,37,7,59,50,19
-17,Not Gentrified,Forest Glen,72,26,5,130,52,15,88,45,43
-18,Not Gentrified,Garfield Ridge,370,164,55,625,225,67,545,261,128
-19,Not Gentrified,Hyde Park,194,98,30,312,194,47,355,184,135
-20,Not Gentrified,Irving Park,425,235,26,801,430,63,521,433,125
-21,Not Gentrified,Jefferson Park,151,73,19,324,148,44,241,164,70
-22,Not Gentrified,Kenwood,169,179,12,399,299,28,303,230,77
-23,Not Gentrified,Lincoln Square,245,158,26,481,221,55,375,302,143
-24,Not Gentrified,Logan Square,689,474,69,1279,749,106,787,617,238
-25,Not Gentrified,Morgan Park,322,197,19,658,331,46,486,382,101
-26,Not Gentrified,Mount Greenwood,96,58,9,202,97,25,140,76,49
-27,Not Gentrified,North Park,99,42,8,214,89,15,170,117,57
-28,Not Gentrified,Norwood Park,178,96,14,242,133,35,254,184,85
-29,Not Gentrified,Portage Park,501,202,32,908,472,89,658,532,168
-30,Not Gentrified,West Ridge,338,201,37,968,485,70,692,575,180
+version https://git-lfs.github.com/spec/v1
+oid sha256:d661f90416615585755d5f79d1510e72407bbdfe1c2f7e98226341431a09e18c
+size 2197
