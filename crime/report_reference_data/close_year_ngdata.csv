@@ -1,10 +1,10 @@
 ,DS_Subset,Neighborhood,Class_Code,Class_Code,Class_Code,Total
 ds_fbi_group,,,Nonviolent,Violent,White Collar,
-0,Gentrified,Lake View,1055,929,692,2676
+0,Gentrified,Lake View,1055,929,693,2677
 1,Gentrified,Lincoln Park,863,475,439,1777
 2,Gentrified,Loop,1409,1318,1557,4284
 3,Gentrified,Near North Side,1784,1849,1929,5562
-4,Gentrified,Near South Side,431,362,237,1030
+4,Gentrified,Near South Side,432,362,237,1031
 5,Gentrified,Near West Side,1940,1620,772,4332
 6,Gentrified,North Center,292,165,127,584
 7,Gentrified,Uptown,834,858,354,2046
