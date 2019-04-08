@@ -1,33 +1,3 @@
-,DS_Subset,Neighborhood,Class_Code,Class_Code,Class_Code,Total
-ds_fbi_group,,,Nonviolent,Violent,White Collar,
-0,Gentrified,Lake View,1055,929,693,2677
-1,Gentrified,Lincoln Park,863,475,439,1777
-2,Gentrified,Loop,1409,1318,1557,4284
-3,Gentrified,Near North Side,1784,1849,1929,5562
-4,Gentrified,Near South Side,432,362,237,1031
-5,Gentrified,Near West Side,1940,1620,772,4332
-6,Gentrified,North Center,292,165,127,584
-7,Gentrified,Uptown,834,858,354,2046
-8,Gentrified,West Town,1466,1095,552,3113
-9,Not Gentrified,Armour Square,199,207,75,481
-10,Not Gentrified,Beverly,285,147,93,525
-11,Not Gentrified,Bridgeport,460,278,124,862
-12,Not Gentrified,Calumet Heights,370,348,95,813
-13,Not Gentrified,Clearing,297,196,92,585
-14,Not Gentrified,Dunning,423,370,112,905
-15,Not Gentrified,Edgewater,633,585,269,1487
-16,Not Gentrified,Edison Park,70,72,26,168
-17,Not Gentrified,Forest Glen,118,59,57,234
-18,Not Gentrified,Garfield Ridge,712,326,194,1232
-19,Not Gentrified,Hyde Park,492,264,176,932
-20,Not Gentrified,Irving Park,702,575,173,1450
-21,Not Gentrified,Jefferson Park,326,214,87,627
-22,Not Gentrified,Kenwood,382,307,115,804
-23,Not Gentrified,Lincoln Square,469,391,192,1052
-24,Not Gentrified,Logan Square,1086,818,345,2249
-25,Not Gentrified,Morgan Park,631,484,140,1255
-26,Not Gentrified,Mount Greenwood,186,104,60,350
-27,Not Gentrified,North Park,249,157,82,488
-28,Not Gentrified,Norwood Park,324,258,106,688
-29,Not Gentrified,Portage Park,847,710,228,1785
-30,Not Gentrified,West Ridge,937,755,252,1944
+version https://git-lfs.github.com/spec/v1
+oid sha256:7addc796ac04d9c942fb69a06c7e6c3bb4d48d07bc891128ae833972a45cdaba
+size 1504
