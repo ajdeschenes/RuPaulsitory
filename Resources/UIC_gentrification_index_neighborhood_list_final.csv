@@ -1,3 +1,78 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:30b4b9d6956fc586e75f8272a3369a5d5d73cfa98fbb74087b20ae8f224992f9
-size 4710
+﻿No.,Neighborhood,1970,1980,1990,2000,2010,1970-2010,Change,Type
+77,Edgewater,7,9,9,7,9,2,No Change,1 - Upper Class
+9,Edison Park,10,9,11,11,11,1,No Change,1 - Upper Class
+12,Forest Glen,11,11,11,11,9,-2,No Change,1 - Upper Class
+4,Lincoln Square,9,7,5,11,11,2,No Change,1 - Upper Class
+13,North Park,9,11,11,11,11,2,No Change,1 - Upper Class
+72,Beverly,9,9,9,9,7,-2,No Change,2 - Middle Class
+48,Calumet Heights,5,5,7,5,1,-4,No Change,2 - Middle Class
+64,Clearing,5,9,7,5,1,-4,No Change,2 - Middle Class
+17,Dunning,7,7,7,7,7,0,No Change,2 - Middle Class
+56,Garfield Ridge,5,7,7,7,1,-4,No Change,2 - Middle Class
+41,Hyde Park,9,9,11,7,7,-2,No Change,2 - Middle Class
+16,Irving Park,5,7,5,5,7,2,No Change,2 - Middle Class
+11,Jefferson Park,8,7,7,7,7,-1,No Change,2 - Middle Class
+39,Kenwood,-3,-3,1,1,1,4,No Change,2 - Middle Class
+75,Morgan Park,5,3,3,3,1,-4,No Change,2 - Middle Class
+74,Mount Greenwood,9,7,7,7,5,-4,No Change,2 - Middle Class
+10,Norwood Park,9,9,9,8,7,-2,No Change,2 - Middle Class
+15,Portage Park,7,7,7,7,5,-2,No Change,2 - Middle Class
+2,West Ridge,11,11,11,11,7,-4,No Change,2 - Middle Class
+35,Douglas,-5,-5,-5,-6,-1,4,No Change,3 - Poverty
+31,Lower West Side,-5,-7,-7,-7,-5,0,No Change,3 - Poverty
+30,South Lawndale,-3,-7,-7,-7,-7,-4,No Change,3 - Poverty
+27,East Garfield Park,-9,-9,-9,-10,-9,0,No Change,4 - Extreme Poverty
+68,Englewood,-9,-9,-9,-11,-11,-2,No Change,4 - Extreme Poverty
+37,Fuller Park,-9,-11,-11,-11,-11,-2,No Change,4 - Extreme Poverty
+38,Grand Boulevard,-11,-11,-11,-9,-9,2,No Change,4 - Extreme Poverty
+69,Greater Grand,-7,-9,-9,-11,-11,-4,No Change,4 - Extreme Poverty
+29,North Lawndale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty
+36,Oakland,-9,-9,-9,-7,-9,0,No Change,4 - Extreme Poverty
+54,Riverdale,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty
+40,Washington Park,-9,-11,-9,-9,-9,0,No Change,4 - Extreme Poverty
+67,West Englewood,-7,-7,-7,-7,-9,-2,No Change,4 - Extreme Poverty
+26,West Garfield Park,-9,-9,-9,-9,-9,0,No Change,4 - Extreme Poverty
+42,Woodlawn,-9,-11,-11,-11,-11,-2,No Change,4 - Extreme Poverty
+34,Armour Square,-7,-3,-1,-3,-1,6,Positive,5 - Not Gentrification
+60,Bridgeport,-1,3,1,1,7,8,Positive,5 - Not Gentrification
+22,Logan Square,1,-5,-9,-5,7,6,Positive,5 - Not Gentrification
+6,Lake View,5,7,11,11,11,6,Positive,6 - Gentrification
+7,Lincoln Park,1,11,11,11,11,10,Positive,6 - Gentrification
+32,Loop,6,11,11,13,11,5,Positive,6 - Gentrification
+8,Near North Side,-1,3,7,9,11,12,Positive,6 - Gentrification
+33,Near South Side,-10,-9,-7,0,13,23,Positive,6 - Gentrification
+28,Near West Side,-11,-7,-3,-3,11,22,Positive,6 - Gentrification
+5,North Center,5,1,7,11,13,8,Positive,6 - Gentrification
+3,Uptown,-1,-1,-1,3,9,10,Positive,6 - Gentrification
+24,West Town,-7,-9,-9,3,11,18,Positive,6 - Gentrification
+14,Albany Park,3,5,1,-1,-3,-6,Negative,7 - Mild Decline
+59,McKinley Park,5,3,1,-1,-1,-6,Negative,7 - Mild Decline
+76,O'Hare,11,11,9,9,5,-6,Negative,7 - Mild Decline
+1,Rogers Park,9,9,3,1,3,-6,Negative,7 - Mild Decline
+73,Washington Heights,1,-1,1,-3,-5,-6,Negative,7 - Mild Decline
+57,Archer Heights,5,5,5,3,-3,-8,Negative,8 - Moderate Decline
+21,Avondale,5,1,3,-3,-3,-8,Negative,8 - Moderate Decline
+63,Gage Park,3,5,1,-5,-5,-8,Negative,8 - Moderate Decline
+55,Hegewisch,5,7,5,3,-3,-8,Negative,8 - Moderate Decline
+20,Hermosa,5,3,1,-3,-3,-8,Negative,8 - Moderate Decline
+23,Humboldt Park,-3,-9,-11,-11,-11,-8,Negative,8 - Moderate Decline
+18,Montclare,7,7,7,5,-1,-8,Negative,8 - Moderate Decline
+61,New City,-1,-6,-11,-7,-9,-8,Negative,8 - Moderate Decline
+50,Pullman,-1,-3,-3,-9,-9,-8,Negative,8 - Moderate Decline
+49,Roseland,-1,-3,-3,-7,-9,-8,Negative,8 - Moderate Decline
+62,West Elsdon,5,7,5,1,-3,-8,Negative,8 - Moderate Decline
+65,West Lawn,5,7,7,1,-3,-8,Negative,8 - Moderate Decline
+70,Ashburn,9,7,1,1,-1,-10,Negative,9 - Serious Decline
+71,Auburn Gresham,1,-3,-3,-9,-9,-10,Negative,9 - Serious Decline
+25,Austin,5,-7,-7,-9,-11,-16,Negative,9 - Serious Decline
+45,Avalon Park,5,5,7,-1,-5,-10,Negative,9 - Serious Decline
+19,Belmont Cragin,7,7,5,1,-5,-12,Negative,9 - Serious Decline
+58,Brighton Park,3,3,1,-3,-7,-10,Negative,9 - Serious Decline
+47,Burnside,1,-1,-5,-7,-9,-10,Negative,9 - Serious Decline
+44,Chatham,5,-3,-5,-7,-11,-16,Negative,9 - Serious Decline
+66,Chicago Lawn,5,5,2,-9,-9,-14,Negative,9 - Serious Decline
+52,East Side,5,5,1,-3,-5,-10,Negative,9 - Serious Decline
+46,South Chicago,-1,-5,-9,-11,-11,-10,Negative,9 - Serious Decline
+51,South Deering,3,-1,-5,-11,-11,-14,Negative,9 - Serious Decline
+43,South Shore,-1,-3,-7,-11,-11,-10,Negative,9 - Serious Decline
+53,West Pullman,5,-5,-3,-7,-9,-14,Negative,9 - Serious Decline
